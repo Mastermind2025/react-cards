@@ -1,0 +1,7 @@
+/* css это объект имя свойства это имя css класса */
+.title{
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: silver;
+}
